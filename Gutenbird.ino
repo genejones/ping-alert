@@ -55,7 +55,7 @@ char
   // boolean operators.  See https://dev.twitter.com/docs/using-search
   // for options and syntax.  Funny characters do NOT need to be URL
   // encoded here -- the sketch takes care of that.
-  *queryString = "from:Adafruit",
+  *queryString = "to:generjones",
   lastId[21],    // 18446744073709551615\0 (64-bit maxint as string)
   timeStamp[32], // WWW, DD MMM YYYY HH:MM:SS +XXXX\0
   fromUser[16],  // Max username length (15) + \0
